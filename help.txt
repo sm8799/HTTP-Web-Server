@@ -1,0 +1,10 @@
+					My Mini Project in Networking Protocols is Webserver - command line interface and below are the 
+								
+								 resources which helped me throughout the journey of this project:
+		----------------------------------------------------------------------------------------------------------
+		_______________________________HELP________________________________SOURCE_________________________________
+							1. Pseudocode Of the Project	| ABHIJIT SIR - Assistant Prof. COEP,Pune
+							2. How to use various functions | docs.python.org (python 3.7)
+							   of imported modules			|
+							3. RFC 2616, 7230, 7231			| IETF
+		----------------------------------------------------------------------------------------------------------
