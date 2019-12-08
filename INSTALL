@@ -1,0 +1,10 @@
+To install modules / libraries required for implementation of webserver, following commands can be useful
+
+---------------------------------------------------------------------------------------------------------
+
+pip install urllib3
+pip install logging
+pip install pybase64
+
+---------------------------------------------------------------------------------------------------------
+
