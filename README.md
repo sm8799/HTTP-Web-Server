@@ -3,8 +3,8 @@ This is the project based on http protocol that has been used in day to day life
 
 It has following features:-
 
-HTTP: GET, POST, PUT, HEAD, DELETE, Cookies, Headers, non-persistent connections, Multiple clients at the same time (with a 
+HTTP: GET, POST, PUT, HEAD, DELETE, Cookies, Headers, non-persistent connections, Multiple clients at the same time 
 
-sepearate program to test this), logging with levels of logging, handling file permissions;  Server configuration - config file 
+(with a sepearate program to test this), logging with levels of logging, handling file permissions;  Server configuration - config 
 
-with DocumentRoot, log file name, max simulateneous connections ; way to stop and restart the server; 
+file with DocumentRoot, log file name, max simulateneous connections ; way to stop and restart the server; 
